@@ -28,6 +28,14 @@ body{
     background-color: #e1f5fe;
 }
 
+.panel1 .panel-heading {
+    background-color: #2AABD2;
+}
+
+.panel1 .panel-title {
+    color: #fff;
+}
+
 /* Style 2 */
 .table2 tbody tr th {
     background-color: #d1c4e9;
