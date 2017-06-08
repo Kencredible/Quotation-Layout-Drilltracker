@@ -5,6 +5,7 @@ body{
 .table1 tbody tr th {
     background-color: #2AABD2;
     color: #fff;
+    width:55%;
 }
 
 .table1 tbody tr td {
